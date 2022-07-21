@@ -30,19 +30,25 @@
       "id": 3
     },
     {
-      "name": "Meu projeto",
-      "budget": "7500",
+      "name": "Meu projeto2",
+      "budget": "50000",
       "category": {
         "id": "2",
         "name": "Desenvolvimento"
       },
-      "cost": 10,
+      "cost": 8,
       "services": [
         {
           "name": "teste",
-          "cost": "10",
+          "cost": "3",
           "description": "teste",
-          "id": "35e0889d-2f02-46a7-afc7-410de4e7f206"
+          "id": "942fe751-1c36-49a3-81c2-f140dda7890d"
+        },
+        {
+          "name": "teste",
+          "cost": "5",
+          "description": "contratar júnior",
+          "id": "3378f8ca-b65e-4302-a78a-6ec6984a877c"
         }
       ],
       "id": 4
