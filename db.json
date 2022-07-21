@@ -1,0 +1,69 @@
+{
+  "projects": [
+    {
+      "name": "projeto escolar",
+      "budget": "10000",
+      "category": {
+        "id": "3",
+        "name": "Design"
+      },
+      "cost": 10,
+      "services": [
+        {
+          "name": "teste",
+          "cost": "10",
+          "description": "teste",
+          "id": "c1960b52-91ee-42bd-a644-b52314fcb05a"
+        }
+      ],
+      "id": 2
+    },
+    {
+      "name": "Sistema de delegacia de policia",
+      "budget": "90000",
+      "category": {
+        "id": "4",
+        "name": "Planejamento"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 3
+    },
+    {
+      "name": "Meu projeto",
+      "budget": "7500",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 10,
+      "services": [
+        {
+          "name": "teste",
+          "cost": "10",
+          "description": "teste",
+          "id": "35e0889d-2f02-46a7-afc7-410de4e7f206"
+        }
+      ],
+      "id": 4
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Infra"
+    },
+    {
+      "id": 2,
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": 3,
+      "name": "Design"
+    },
+    {
+      "id": 4,
+      "name": "Planejamento"
+    }
+  ]
+}
