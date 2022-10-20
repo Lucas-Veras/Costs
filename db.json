@@ -52,6 +52,48 @@
         }
       ],
       "id": 4
+    },
+    {
+      "name": "Orçamento do site de RPG",
+      "budget": "50000",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 10000,
+      "services": [
+        {
+          "name": "Contratar desenvolvedor",
+          "cost": "10000",
+          "description": "Desenvolver as páginas do site em React",
+          "id": "24ebdeff-93da-42c3-a264-b9b6b886a3fb"
+        }
+      ],
+      "id": 5
+    },
+    {
+      "name": "site do minato",
+      "budget": "50000",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 5000,
+      "services": [
+        {
+          "name": "Dev php",
+          "cost": "2000",
+          "description": "desenvolver backend",
+          "id": "631f0a12-92e9-435b-a7c8-7033c5fdcba3"
+        },
+        {
+          "name": "dev front-end",
+          "cost": "3000",
+          "description": "Desenvolver as páginas do site em React",
+          "id": "0259a7d0-4350-4531-971a-96b610e7e47e"
+        }
+      ],
+      "id": 6
     }
   ],
   "categories": [
